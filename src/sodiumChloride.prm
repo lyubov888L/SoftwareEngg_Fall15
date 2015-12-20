@@ -1,0 +1,3 @@
+#atomtype  mass(kg 10^-26) sigma(nanometer)  epsilon(kJ/mol) charge(electronic units)
+Na  3.817540668 0.332839761097 0.01158968 +1
+Cl  5.88714185 0.440103966761 0.41840000 -1
