@@ -5,6 +5,7 @@ particularly in src/finalproj_writeup.pdf has information about the implementati
 created using doxygen can be found in src/documentation.pdf.
 
 Running the Code
+
 We have provided a Makefile (GNUMakefile) that can be used to compile the code on
 any machine, provided the correct compiler and FFTW libraries are specified in the
 Makefile. Default input files for running the simulation have been provided (runtime.cfg
