@@ -1,7 +1,6 @@
 # SoftwareEngg_Fall15
 Final Project code for Software Engg course I took in Fall 2015 (CS294-73) by Phil Colella. 
-Code was written jointly by Sukanya Sasmal, Saurabh Belsare and myself. All of us work in 
-Prof. Teresa Head-Gordon's lab at UC Berkeley
+Code was written jointly by Sukanya Sasmal, Saurabh Belsare and myself.
 The software can perform molecular dynamics simulations of Na/Cl atoms. The PDF files in the directory, 
 particularly in src/finalproj_writeup.pdf has information about the implementation. Also documentation 
 created using doxygen can be found in src/documentation.pdf.
